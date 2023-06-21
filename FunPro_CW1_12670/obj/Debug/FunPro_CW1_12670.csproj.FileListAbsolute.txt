@@ -1,0 +1,103 @@
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.Properties.Resources.resources
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.GenerateResource.cache
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro.CW1.12670.sdf
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe.config
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.ParentForm.resources
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.AboutForm.resources
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CopyComplete
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro.CW1.12670.sdf
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe.config
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.AboutForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.ParentForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.Properties.Resources.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.GenerateResource.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CopyComplete
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerListForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerEditForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.PaymentCalculation.resources
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.PaymentCalculation.resources
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerEditForm.resources
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerListForm.resources
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.RegionPayments.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro.CW1.12670.sdf
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe.config
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.AboutForm.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.PaymentCalculation.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.ParentForm.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.Properties.Resources.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.RegionPayments.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerEditForm.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerListForm.resources
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.GenerateResource.cache
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CopyComplete
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro.CW1.12670.sdf
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe.config
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.AboutForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.PaymentCalculation.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.ParentForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.Properties.Resources.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerEditForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerListForm.resources
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.GenerateResource.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CopyComplete
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro.CW1.12670.sdf
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe.config
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.pdb
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.AboutForm.resources
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.PaymentCalculation.resources
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.ParentForm.resources
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.Properties.Resources.resources
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerEditForm.resources
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.WorkerListForm.resources
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.GenerateResource.cache
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.csproj.CopyComplete
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.exe
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670\obj\Debug\FunPro_CW1_12670.pdb

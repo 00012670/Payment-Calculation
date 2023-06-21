@@ -1,0 +1,37 @@
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.csproj.CopyComplete
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\Bis\Fun Pro\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.DAL.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.DAL.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\My works\Finished works\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.DAL.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll.config
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\bin\Debug\FunPro_CW1_12670.Dal.pdb
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.DAL.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.dll
+C:\Users\Dinora\Desktop\My works\BIS4\Semester2\Fun Pro\FunPro_CW1_00012670 (1)\FunPro_CW1_00012670\FunPro_CW1_12670.Dal\obj\Debug\FunPro_CW1_12670.Dal.pdb
